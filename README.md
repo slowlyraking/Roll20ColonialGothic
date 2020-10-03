@@ -2,4 +2,4 @@
 Colonial Gothic Character Sheet for Roll20
 
 
-This is a simple example character sheet. Very basic as it is my first sheet I have made. Based of of the Kitchen Sink Roll 20 sheet for Savage Worlds.
+This is a simple example character sheet. Very basic as it is my first sheet I have made. Based of of the Kitchen Sink Roll 20 sheet for Savage Worlds. It is not even close to being finished but will be updated until then.
